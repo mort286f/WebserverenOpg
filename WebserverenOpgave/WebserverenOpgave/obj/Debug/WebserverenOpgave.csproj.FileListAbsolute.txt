@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\bin\Debug\WebserverenOpgave.exe.config
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\bin\Debug\WebserverenOpgave.exe
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\bin\Debug\WebserverenOpgave.pdb
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\obj\Debug\WebserverenOpgave.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\obj\Debug\WebserverenOpgave.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\obj\Debug\WebserverenOpgave.exe
+C:\Users\mort286f\source\repos\WebserverenOpgave\WebserverenOpgave\obj\Debug\WebserverenOpgave.pdb
